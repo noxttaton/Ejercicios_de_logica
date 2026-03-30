@@ -2,7 +2,7 @@
 Dentro de este repositorio almacenaré los ejercicios de lógica que realice para practicar.
 
 
-# ✎ᝰ Ejercicios de lógico (20)
+# ✎ᝰ Ejercicios de lógica (20)
 
 1. Sumar números del 1 al N
 2. Encontrar el mayor de 3 números
@@ -23,4 +23,4 @@ Dentro de este repositorio almacenaré los ejercicios de lógica que realice par
 17. Convertir decimal a binario
 18. Validar una contraseña
 19. Simular un dado
-20. Crear serie Fibonacci****
+20. Crear serie Fibonacci
